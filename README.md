@@ -7,18 +7,22 @@ About Me
 🤝 Eager to collaborate with others and contribute to open source projects.
 
 Skills and Interests
-💡 Proficient in Python, C++, and web development technologies (HTML, CSS, JavaScript).
+💡 Proficient in C++, and web development technologies (HTML, CSS, JavaScript,NodeJS, ExpressJS etc).
 🔧 Experience with Git and version control.
-📖 Interested in machine learning, data science, and software engineering.
 🌐 Excited about web app development.
+
 Current Goals
 🌱 Learn more about open source development and best practices.
 🛠 Contribute to projects that align with my interests and skills.
 📚 Enhance my knowledge in areas like machine learning, data structures, and algorithms.
+
 Get in Touch
 📧 Feel free to reach out to me via email: mohitvishwakarma681@gmail.com
+
 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/mohit-vishwakarma-663453206/
+
 🐦 Follow me on Twitter: https://twitter.com/Mohit_v11
+
 Let's collaborate and make a positive impact on the open source community! 🚀
 
 <!--
